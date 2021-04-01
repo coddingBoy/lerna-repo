@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "target": "ES5",
+        "module": "ESNext"
+    },
+    "include": ["src/index.ts"],
+    "exclude": ["node_modules"]
+}
